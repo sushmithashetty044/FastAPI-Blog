@@ -1,1 +1,1 @@
-FasTAPI Blog
+FastAPI Blog
